@@ -35,16 +35,6 @@ Accident Identification System using GSM and GPS
 
  ✏ This project would make a motorcycle journey more protected and safer.
  
- ✔ Algorithm Flowchart :
- ![image](https://user-images.githubusercontent.com/73351387/130576139-6462e212-1cc8-4987-b873-649c0c38cbdc.png)
- 
-✔ Circuit Diagram :
-  
-  
-![image](https://user-images.githubusercontent.com/73351387/130576160-ed66059d-9b34-4ba5-a437-4b6ac23c4627.png)
 
-
-✔ Simulation Diagram :
-![image](https://user-images.githubusercontent.com/73351387/130576208-2c7086a8-798c-4afb-8eb8-152f002a2484.png)
 
 
